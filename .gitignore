@@ -24,7 +24,6 @@ build/
 local_settings.py
 
 # Static files
-media/
 static/
 
 # Migration files
