@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class SendMailConfig(AppConfig):
+class CoreConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'send_mail'
+    name = 'core'
